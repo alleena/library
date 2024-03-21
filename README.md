@@ -1,2 +1,2 @@
 # library
-this is my first Git Repository.
+this is my second Git Repository.
